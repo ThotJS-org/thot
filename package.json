@@ -1,0 +1,29 @@
+{
+  "name": "thot",
+  "version": "0.0.1",
+  "description": "Build Applications at the Speed of Thot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThotJS/thot.git"
+  },
+  "keywords": [
+    "Framework",
+    "API",
+    "ThotJS",
+    "Application",
+    "Platform",
+    "Web",
+    "REST",
+    "Development"
+  ],
+  "author": "Joshwa Fugett <jfugett@thotjs.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThotJS/thot/issues"
+  },
+  "homepage": "https://github.com/ThotJS/thot"
+}
