@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/ThotJS/thot/issues"
   },
-  "homepage": "https://github.com/ThotJS/thot"
+  "homepage": "https://github.com/ThotJS/thot",
+  "dependencies": {
+    "genforce": "^0.1.2"
+  }
 }
