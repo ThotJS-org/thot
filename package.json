@@ -18,7 +18,9 @@
     "Platform",
     "Web",
     "REST",
-    "Development"
+    "Development",
+    "thot",
+    "thotjs"
   ],
   "author": "Joshwa Fugett <jfugett@thotjs.io>",
   "license": "MIT",
@@ -27,6 +29,7 @@
   },
   "homepage": "https://github.com/ThotJS/thot",
   "dependencies": {
+    "easy-require": "^1.0.0",
     "genforce": "^0.1.2"
   }
 }
