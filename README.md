@@ -3,6 +3,8 @@ ThotJS
 
 Build Applications at the speed of thot
 
+[![experimental](https://badges.github.io/stability-badges/dist/experimental.svg)](https://github.com/badges/stability-badges)
+
 ## What is it?
 
 ThotJS is a complete fullstack application development platform for node 0.11 and beyond.
